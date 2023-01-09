@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🖼️ FrontEnd Developer
+### 🖼️ FrontEnd Developer
 
 +2 years of experience in the development and design of applications, functional,
 pretty and intuitive. Constant purpose and contribution of ideas for the improvement of the
@@ -15,6 +15,8 @@ I am very good at the frontend and I am learning the backend, but I would like t
 - 👨‍💻 All of my projects are available at [titoworld.dev](https://titoworld.dev)
 
 - 📫 How to reach me **titocristian.am@gmail.com**
+
+- ⚡ Fun fact: I use tabs over spaces and close with a semicolon 🤪
 
 ## 🌐 Socials:
 
