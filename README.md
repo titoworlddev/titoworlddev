@@ -19,7 +19,6 @@ I am very good at the frontend and I am learning the backend, but I would like t
 - ⚡ Fun fact: I use tabs over spaces and close with a semicolon 🤪
 
 </br>
-</br>
 
 ## 🌐 Socials:
 
@@ -28,7 +27,6 @@ I am very good at the frontend and I am learning the backend, but I would like t
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/titoworlddev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cristian_am91)
 
-</br>
 </br>
 
 # 💻 Tech Stack:
@@ -53,7 +51,6 @@ I am very good at the frontend and I am learning the backend, but I would like t
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-</br>
 </br>
 
 # 📊 GitHub Stats:
