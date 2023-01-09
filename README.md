@@ -55,10 +55,10 @@ I am very good at the frontend and I am learning the backend, but I would like t
 
 # 📊 GitHub Stats:
 
-<ul style="margin: 0; padding: 0 0 2em 0; display: flex; flex-wrap: wrap; gap: .5em">
-  <img style="width: calc(50% - .5em)" src="https://github-readme-stats.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" />
-  <img style="width: calc(50% - .5em)" src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" align="center" />
-  <img style="width: calc(50% - .5em)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
+<ul align="center" style="display: flex; flex-direction: column; gap: 1em">
+  <img src="https://github-readme-stats.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
 </ul>
 
 </br>
