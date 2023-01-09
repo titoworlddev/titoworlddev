@@ -5,6 +5,8 @@
 pretty and intuitive. Constant purpose and contribution of ideas for the improvement of the
 product. Collaboration capacity. Agile adaptation to new technologies.
 
+I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristian_am91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-arias-mejuto/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cristian_am91) 
 
