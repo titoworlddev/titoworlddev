@@ -25,6 +25,9 @@ I am very good at the frontend and I am learning the backend, but I would like t
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/titoworlddev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cristian_am91)
 
+</br>
+</br>
+
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -45,17 +48,26 @@ I am very good at the frontend and I am learning the backend, but I would like t
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+
+</br>
+</br>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<ul style="margin: 0; padding: 0 0 2em 0; display: flex; flex-wrap: wrap; gap: 2em">
+  <img src="https://github-readme-stats.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
+</ul>
+
+</br>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=titoworlddev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</br>
 
 ### ✍️ Random Dev Quote
 
