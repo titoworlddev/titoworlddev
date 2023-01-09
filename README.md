@@ -55,11 +55,11 @@ I am very good at the frontend and I am learning the backend, but I would like t
 
 # 📊 GitHub Stats:
 
-<ul align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
-</ul>
+</div>
 
 </br>
 
