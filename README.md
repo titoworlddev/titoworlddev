@@ -8,7 +8,7 @@ product. Collaboration capacity. Agile adaptation to new technologies.
 
 I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
 
-- 🔭 I’m currently working on [Giffy - midudev](https://github.com/titoworlddev/curso-react-midudev-giffy)
+- 🔭 I’m currently working on [Giffy](https://github.com/titoworlddev/curso-react-midudev-giffy)
 
 - 🌱 I’m currently learning **React**
 
