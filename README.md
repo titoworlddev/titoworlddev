@@ -18,6 +18,9 @@ I am very good at the frontend and I am learning the backend, but I would like t
 
 - ⚡ Fun fact: I use tabs over spaces and close with a semicolon 🤪
 
+</br>
+</br>
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-arias-mejuto/) 
