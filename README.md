@@ -56,9 +56,13 @@ I am very good at the frontend and I am learning the backend, but I would like t
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" style="padding-bottom: 1em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" align="center" style="padding-bottom: 1em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" style="padding-bottom: 1em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center"/>
+  </br>
+  </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" align="center"/>
+  </br>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center"/>
 </div>
 
 </br>
