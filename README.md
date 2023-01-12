@@ -12,7 +12,7 @@ I am very good at the frontend and I am learning the backend, but I would like t
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [titoworld.dev](https://titoworld.dev)
+- 👨‍💻 All of my projects are also available at [titoworld.dev](https://titoworld.dev)
 
 - 📫 How to reach me **titocristian.am@gmail.com**
 
