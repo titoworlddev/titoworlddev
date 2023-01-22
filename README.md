@@ -8,26 +8,26 @@ product. Collaboration capacity. Agile adaptation to new technologies.
 
 I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
 
-- 🔭 I’m currently working on [Giffy](https://github.com/titoworlddev/curso-react-midudev-giffy)
+- 🔭 I’m currently working on <a target="_blank" href="https://github.com/titoworlddev/curso-react-midudev-giffy">Giffy</a>
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are also available at [titoworld.dev](https://titoworld.dev)
+- 👨‍💻 All of my projects are also available at <a target="_blank" href="https://titoworld.dev">titoworld.dev</a>
 
 - 📫 How to reach me **titocristian.am@gmail.com**
 
 - ⚡ Fun fact: I use tabs over spaces and close with a semicolon 🤪
 
-</br>
+<br>
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-arias-mejuto/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cristian_am91)
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/titoworlddev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cristian_am91)
+<a target="_blank" href="https://www.linkedin.com/in/cristian-arias-mejuto/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://twitter.com/cristian_am91"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a target="_blank" href="https://github.com/titoworlddev"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a target="_blank" href="https://instagram.com/cristian_am91"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-</br>
+<br>
 
 # 💻 Tech Stack:
 
@@ -51,27 +51,27 @@ I am very good at the frontend and I am learning the backend, but I would like t
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-</br>
+<br>
 
 # 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center"/>
-  </br>
-  </br>
+  <br>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" align="center"/>
-  </br>
-  </br>
+  <br>
+  <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=titoworlddev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center"/>
 </div>
 
-</br>
+<br>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=titoworlddev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-</br>
+<br>
 
 ### ✍️ Random Dev Quote
 
