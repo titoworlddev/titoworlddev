@@ -8,11 +8,11 @@ product. Collaboration capacity. Agile adaptation to new technologies.
 
 I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
 
-- 🔭 I’m currently working on [Giffy](https://github.com/titoworlddev/curso-react-midudev-giffy){:target="_blank"}
+- 🔭 I’m currently working on [Giffy](https://github.com/titoworlddev/curso-react-midudev-giffy)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are also available at [titoworld.dev](https://titoworld.dev){:target="_blank"}
+- 👨‍💻 All of my projects are also available at [titoworld.dev](https://titoworld.dev)
 
 - 📫 How to reach me **titocristian.am@gmail.com**
 
@@ -22,10 +22,10 @@ I am very good at the frontend and I am learning the backend, but I would like t
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-arias-mejuto/){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cristian_am91){:target="_blank"}
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/titoworlddev){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cristian_am91){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-arias-mejuto/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cristian_am91)
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/titoworlddev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cristian_am91)
 
 </br>
 
