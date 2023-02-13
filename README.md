@@ -2,9 +2,7 @@
 
 ### 🖼️ FrontEnd Developer
 
-+2 years of experience in the development and design of applications, functional,
-pretty and intuitive. Constant purpose and contribution of ideas for the improvement of the
-product. Collaboration capacity. Agile adaptation to new technologies.
++2 years of experience in the development and design of attractive and intuitive applications. Constant effort to improve the product and contribute valuable ideas. Efficient collaborator and agile adaptation to new technologies.
 
 I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
 
