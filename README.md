@@ -2,7 +2,7 @@
 
 ### 🖼️ FrontEnd Developer
 
-+2 years of experience in the development and design of attractive and intuitive applications. Constant effort to improve the product and contribute valuable ideas. Efficient collaborator and agile adaptation to new technologies.
+Passionate frontend developer with three years of experience studying web and mobile development. I look for opportunities to apply and expand my knowledge in frontend development, bringing enthusiasm and a focus on usability and design.
 
 I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
 
