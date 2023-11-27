@@ -17,9 +17,6 @@ I am very good at the frontend and I am learning the backend, but I would like t
 ## 🌐 Socials:
 
 <a target="_blank" href="https://www.linkedin.com/in/cristian-arias-mejuto/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://twitter.com/cristian_am91"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a target="_blank" href="https://github.com/titoworlddev"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/cristian_am91"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <br>
 
