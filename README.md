@@ -6,10 +6,6 @@
 
 I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
 
-- 🔭 I’m currently working on <a target="_blank" href="https://github.com/titoworlddev/curso-react-midudev-giffy">Giffy</a>
-
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are also available at <a target="_blank" href="https://titoworld.dev">titoworld.dev</a>
 
 - 📫 How to reach me **titocristian.am@gmail.com**
