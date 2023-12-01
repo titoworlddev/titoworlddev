@@ -2,7 +2,7 @@
 
 ### 🖼️ FrontEnd Developer
 
-Passionate frontend developer with +3 years of experience studying web and mobile development. I look for opportunities to apply and expand my knowledge in frontend development, bringing enthusiasm and a focus on usability and design.
+Passionate frontend developer with +3 years of experience in web and mobile development. I look for opportunities to apply and expand my knowledge in frontend development, bringing enthusiasm and a focus on usability and design.
 
 I am very good at the frontend and I am learning the backend, but I would like to become fullstack.
 
