@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=titoworlddev&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=titoworlddev&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ---
