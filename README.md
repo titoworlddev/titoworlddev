@@ -85,8 +85,6 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titoworlddev&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titoworlddev&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
 ---
 
 ## 🏆 Logros y Certificaciones
