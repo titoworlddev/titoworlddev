@@ -82,17 +82,18 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=titoworlddev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titoworlddev&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🏆 Logros y Certificaciones
 
-- 🎓 **Grado Superior en Automoción** - IES José Vilaplana (2019)
+- 📱 **Master en Desarrollo web FullStack** - ConquerBlocks (2025)
 - 📱 **Desarrollo de aplicaciones web y móvil** - Autodidacta (2020-presente)
 - 🚀 **+15 proyectos** completados entre web y móvil
 - 💼 **Experiencia freelance** en desarrollo frontend
+- 🎓 **Grado Superior en Automoción** - IES José Vilaplana (2019)
 
 ---
 
