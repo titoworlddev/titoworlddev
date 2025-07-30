@@ -52,32 +52,37 @@
 
 ## 🎯 Proyectos Destacados
 
-### 🛒 [TuBuenaCompra](https://github.com/titoworlddev/tubuenacompra)
-**E-commerce completo** - Plataforma de comercio electrónico con carrito de compras, gestión de productos y sistema de pagos.
-- **Tech:** React, Node.js, MySQL, Tailwind CSS
-- **Características:** Autenticación, carrito persistente, panel admin
+### 🛒 [tubuenacompra.es](https://tubuenacompra.es/)
+**Plataforma de e-commerce especializada** - Guías de compra que facilitan la toma de decisiones informadas con contenido de calidad.
+- **Tech:** Vue.js, Bootstrap, HTML, CSS, JavaScript
+- **Características:** Diseño responsive, contenido optimizado, experiencia de usuario cómoda
 
-### 🎯 [Random X](https://github.com/titoworlddev/randomx)
-**Generador de contenido aleatorio** - Herramienta web para generar datos aleatorios para testing y desarrollo.
-- **Tech:** Vue.js, JavaScript, Bootstrap
-- **Características:** Múltiples tipos de datos, exportación, API integrada
+### 🛍️ [LiliMoo](https://lilimoo.com/)
+**Tienda online Shopify** - E-commerce personalizado para productos de bebés y niños con plantillas Liquid optimizadas.
+- **Tech:** HTML, CSS, JavaScript, Liquid
+- **Características:** Diseño atractivo, experiencia de compra fluida, funcionalidades optimizadas
 
-### 💪 [Workout Creator](https://github.com/titoworlddev/workout-creator)
-**App de fitness** - Aplicación móvil para crear y gestionar rutinas de ejercicio personalizadas.
-- **Tech:** Flutter, Dart, Firebase
-- **Características:** Rutinas personalizadas, seguimiento de progreso, offline-first
+### 💪 [Workout Creator](https://workoutcreator.app/)
+**App de rutinas de gimnasio** - Aplicación web con base de datos de +1300 ejercicios para entrenadores personales.
+- **Tech:** React, React Router, Redux, HTML, CSS, JavaScript
+- **Características:** Rutinas personalizadas, exportación PDF, gestión de clientes
+
+### 🎬 [Disney+ AutoSkip](https://chromewebstore.google.com/detail/disney+-autoskip/nkhkilgfcbnblconmaldaobhhalldokb)
+**Extensión de Chrome** - Automatiza el salto de intros y resúmenes en Disney+ con +300 usuarios activos.
+- **Tech:** React, Styled Components, HTML, CSS, TypeScript
+- **Características:** 4.3⭐ valoración, automatización inteligente, mejora UX
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=titoworlddev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=titoworlddev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titoworlddev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titoworlddev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=titoworlddev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=titoworlddev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
